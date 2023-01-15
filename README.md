@@ -1,4 +1,4 @@
-# storybook-with-codesandbox-tempate
+# storybook-with-codesandbox-template
 
 Import the repo from CodeSandbox directly.
 
